@@ -1,0 +1,4 @@
+com/example/DocumentSimilarityDriver.class
+com/example/DocumentSimilarityReducer.class
+com/example/DocumentSimilarityMapper.class
+com/example/DocumentSimilarityReducer$Document.class

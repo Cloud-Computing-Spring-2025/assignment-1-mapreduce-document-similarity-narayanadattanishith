@@ -1,0 +1,3 @@
+doc1 apple banana orange grape kiwi
+doc2 apple banana orange mango kiwi
+doc3 apple banana grape kiwi watermelon
